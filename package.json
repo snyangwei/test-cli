@@ -1,0 +1,22 @@
+{
+  "name": "test-cli",
+  "version": "1.0.0",
+  "description": "test-cli 脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snyangwei/test-cli.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "yangwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snyangwei/test-cli/issues"
+  },
+  "homepage": "https://github.com/snyangwei/test-cli#readme"
+}
